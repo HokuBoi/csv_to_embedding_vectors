@@ -1,4 +1,4 @@
-# csv_entry_embedding_vectors# CSV to Embedding Vectors
+# CSV to Embedding Vectors
 
 This repository contains a script that takes a CSV file and converts each row into a text embedding vector using the OpenAI API.
 
